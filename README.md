@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estudando desenvolvimento WEB. Buscando absorver todo conhecimento possível para aprimorar meu código e fazer o máximo em projetos.<br>Busco oportunidade para adquirir conhecimentos e praticar o que sei.
+Desenvolvedor em início de carreira, formado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento de APIs REST utilizando PHP, integração de sistemas e bancos de dados SQL. Possuo conhecimento em Git, HTML, CSS, JavaScript e estou aprofundando meus estudos em Laravel.
 
 
 ## 🌐 Socials:
